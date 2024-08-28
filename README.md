@@ -42,5 +42,5 @@ Este programa valida el dígito verificador de un RUT chileno. El usuario ingres
 
 5. Ejecuta el archivo deseado usando Python. Por ejemplo:
 
-   ```bash
+    ```bash
    python CalculoDelDigitoVerificadorDelRUT.py
